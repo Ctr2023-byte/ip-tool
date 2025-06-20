@@ -14,5 +14,5 @@
 
 1. Dar permisos de ejecución:
 ```bash
-chmod +x pitool.sh
+chmod +x ip-tool.sh
 
